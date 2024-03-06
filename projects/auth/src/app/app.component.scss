@@ -1,0 +1,28 @@
+
+.login-box {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+.login-box h2 {
+  font-size: 36px;
+}
+
+.user-box label {
+  font-size: 16px;
+}
+
+.user-box input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  font-size: 16px;
+  padding: 10px;
+  color: #fff;
+}
+
+.btn {
+  width: 40%;
+}
